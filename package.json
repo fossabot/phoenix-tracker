@@ -23,17 +23,21 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@babel/eslint-parser": "^7.16.5",
     "expo": "~44.0.0",
     "expo-status-bar": "~1.2.0",
+    "firebase": "^9.6.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
+    "react-native-dotenv": "^3.3.1",
     "react-native-web": "0.17.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "@types/react": "~17.0.21",
     "@types/react-native": "~0.64.12",
+    "@types/react-native-dotenv": "^0.2.0",
     "eslint": "^8.2.0",
     "eslint-config-airbnb": "^19.0.2",
     "eslint-config-prettier": "^8.3.0",

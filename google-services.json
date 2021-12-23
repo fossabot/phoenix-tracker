@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846343628634",
+    "project_id": "phoenix-tracker-2021",
+    "storage_bucket": "phoenix-tracker-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846343628634:android:fa36a66dca9f0b94357563",
+        "android_client_info": {
+          "package_name": "com.maxelite1520.phoenix_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846343628634-dl4tnro2c85go1mkf48o7f8h1hp0d6rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_HJoVzn6B_b8Kz76IGJk7oF6rQygwBTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846343628634-dl4tnro2c85go1mkf48o7f8h1hp0d6rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

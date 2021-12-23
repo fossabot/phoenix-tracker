@@ -7,12 +7,16 @@
   <a href="https://github.com/maxelite1520/phoenix-tracker/LICENSE" target="_blank">
     <img alt="License: MIT" src="httpss://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxelite1520%2Fphoenix-tracker?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxelite1520%2Fphoenix-tracker.svg?type=shield"/></a>
   <a href="httpss://twitter.com/MaxElite1520" target="_blank">
     <img alt="Twitter: MaxElite1520" src="httpss://img.shields.io/twitter/follow/MaxElite1520.svg?style=social" />
   </a>
 </p>
 
 > An activity tracker made with React Native & Firebase.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxelite1520%2Fphoenix-tracker.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxelite1520%2Fphoenix-tracker?ref=badge_large)
 
 ### 🏠 [Homepage](https://github.com/maxelite1520/phoenix-tracker)
 
